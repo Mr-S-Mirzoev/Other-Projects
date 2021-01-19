@@ -1,0 +1,15 @@
+[submodule "ROS-Projects"]
+	path = ROS-Projects
+	url = git@github.com:Mr-S-Mirzoev/ROS-Projects.git
+[submodule "Vein-Detection-and-Removal"]
+	path = Vein-Detection-and-Removal
+	url = git@github.com:Mr-S-Mirzoev/Vein-Detection-and-Removal.git
+[submodule "JS-Projects"]
+	path = JS-Projects
+	url = git@github.com:Mr-S-Mirzoev/JS-Projects.git
+[submodule "CI-CD-Training"]
+	path = CI-CD-Training
+	url = git@github.com:Mr-S-Mirzoev/CI-CD-Training.git
+[submodule "Go-Projects"]
+	path = Go-Projects
+	url = git@github.com:Mr-S-Mirzoev/Go-Projects.git
